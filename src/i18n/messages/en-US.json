@@ -1,0 +1,5 @@
+{
+  "title.welcome": "Well howdy, {name}!",
+  "body.message1": "This is the first message: <b>{message}</b>",
+  "body.message2": "This is the second message: <b>I count {count} things</b>"
+}

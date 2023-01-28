@@ -6,11 +6,10 @@ export const Title = () => {
       <FormattedMessage
         id="title.welcome"
         values={{
-          name: "Bobby"
+          name: "Bobby",
         }}
-      >
-        Welcome, User!
-      </FormattedMessage>
+        defaultMessage="Welcome, {name}!"
+      />
     </div>
   );
 };
